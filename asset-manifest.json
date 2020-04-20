@@ -1,26 +1,30 @@
 {
   "files": {
-    "main.css": "/covid_kanvas/static/css/main.7701cbc9.chunk.css",
-    "main.js": "/covid_kanvas/static/js/main.387721cc.chunk.js",
-    "main.js.map": "/covid_kanvas/static/js/main.387721cc.chunk.js.map",
+    "main.css": "/covid_kanvas/static/css/main.41423e95.chunk.css",
+    "main.js": "/covid_kanvas/static/js/main.85c0bd1b.chunk.js",
+    "main.js.map": "/covid_kanvas/static/js/main.85c0bd1b.chunk.js.map",
     "runtime-main.js": "/covid_kanvas/static/js/runtime-main.50379750.js",
     "runtime-main.js.map": "/covid_kanvas/static/js/runtime-main.50379750.js.map",
     "static/css/2.cc90cae1.chunk.css": "/covid_kanvas/static/css/2.cc90cae1.chunk.css",
-    "static/js/2.5a5052ed.chunk.js": "/covid_kanvas/static/js/2.5a5052ed.chunk.js",
-    "static/js/2.5a5052ed.chunk.js.map": "/covid_kanvas/static/js/2.5a5052ed.chunk.js.map",
+    "static/js/2.b6bbc931.chunk.js": "/covid_kanvas/static/js/2.b6bbc931.chunk.js",
+    "static/js/2.b6bbc931.chunk.js.map": "/covid_kanvas/static/js/2.b6bbc931.chunk.js.map",
     "index.html": "/covid_kanvas/index.html",
-    "precache-manifest.5e821116e0c4033e2cafb2f51e89603a.js": "/covid_kanvas/precache-manifest.5e821116e0c4033e2cafb2f51e89603a.js",
+    "precache-manifest.3c81051695c2f095465b878773160597.js": "/covid_kanvas/precache-manifest.3c81051695c2f095465b878773160597.js",
     "service-worker.js": "/covid_kanvas/service-worker.js",
     "static/css/2.cc90cae1.chunk.css.map": "/covid_kanvas/static/css/2.cc90cae1.chunk.css.map",
-    "static/css/main.7701cbc9.chunk.css.map": "/covid_kanvas/static/css/main.7701cbc9.chunk.css.map",
-    "static/js/2.5a5052ed.chunk.js.LICENSE.txt": "/covid_kanvas/static/js/2.5a5052ed.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "/covid_kanvas/static/media/fontawesome-webfont.fee66e71.woff"
+    "static/css/main.41423e95.chunk.css.map": "/covid_kanvas/static/css/main.41423e95.chunk.css.map",
+    "static/js/2.b6bbc931.chunk.js.LICENSE.txt": "/covid_kanvas/static/js/2.b6bbc931.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/covid_kanvas/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/prevention.jpg": "/covid_kanvas/static/media/prevention.52402838.jpg",
+    "static/media/symptoms.jpg": "/covid_kanvas/static/media/symptoms.7be5f5d8.jpg",
+    "static/media/transmission.jpg": "/covid_kanvas/static/media/transmission.3aaea8f7.jpg",
+    "static/media/what is covid.jpg": "/covid_kanvas/static/media/what is covid.28f9da41.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.50379750.js",
     "static/css/2.cc90cae1.chunk.css",
-    "static/js/2.5a5052ed.chunk.js",
-    "static/css/main.7701cbc9.chunk.css",
-    "static/js/main.387721cc.chunk.js"
+    "static/js/2.b6bbc931.chunk.js",
+    "static/css/main.41423e95.chunk.css",
+    "static/js/main.85c0bd1b.chunk.js"
   ]
 }
