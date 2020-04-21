@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/covid_kanvas/static/css/main.41423e95.chunk.css",
-    "main.js": "/covid_kanvas/static/js/main.85c0bd1b.chunk.js",
-    "main.js.map": "/covid_kanvas/static/js/main.85c0bd1b.chunk.js.map",
+    "main.css": "/covid_kanvas/static/css/main.4cc3fdf2.chunk.css",
+    "main.js": "/covid_kanvas/static/js/main.f70612dc.chunk.js",
+    "main.js.map": "/covid_kanvas/static/js/main.f70612dc.chunk.js.map",
     "runtime-main.js": "/covid_kanvas/static/js/runtime-main.50379750.js",
     "runtime-main.js.map": "/covid_kanvas/static/js/runtime-main.50379750.js.map",
     "static/css/2.cc90cae1.chunk.css": "/covid_kanvas/static/css/2.cc90cae1.chunk.css",
-    "static/js/2.b6bbc931.chunk.js": "/covid_kanvas/static/js/2.b6bbc931.chunk.js",
-    "static/js/2.b6bbc931.chunk.js.map": "/covid_kanvas/static/js/2.b6bbc931.chunk.js.map",
+    "static/js/2.244ee064.chunk.js": "/covid_kanvas/static/js/2.244ee064.chunk.js",
+    "static/js/2.244ee064.chunk.js.map": "/covid_kanvas/static/js/2.244ee064.chunk.js.map",
     "index.html": "/covid_kanvas/index.html",
-    "precache-manifest.3c81051695c2f095465b878773160597.js": "/covid_kanvas/precache-manifest.3c81051695c2f095465b878773160597.js",
+    "precache-manifest.fc1b8345dc8e07148c5614a25d58fcbb.js": "/covid_kanvas/precache-manifest.fc1b8345dc8e07148c5614a25d58fcbb.js",
     "service-worker.js": "/covid_kanvas/service-worker.js",
     "static/css/2.cc90cae1.chunk.css.map": "/covid_kanvas/static/css/2.cc90cae1.chunk.css.map",
-    "static/css/main.41423e95.chunk.css.map": "/covid_kanvas/static/css/main.41423e95.chunk.css.map",
-    "static/js/2.b6bbc931.chunk.js.LICENSE.txt": "/covid_kanvas/static/js/2.b6bbc931.chunk.js.LICENSE.txt",
+    "static/css/main.4cc3fdf2.chunk.css.map": "/covid_kanvas/static/css/main.4cc3fdf2.chunk.css.map",
+    "static/js/2.244ee064.chunk.js.LICENSE.txt": "/covid_kanvas/static/js/2.244ee064.chunk.js.LICENSE.txt",
+    "static/media/coronavirus.ico": "/covid_kanvas/static/media/coronavirus.cb8c0abc.ico",
     "static/media/font-awesome.min.css": "/covid_kanvas/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/prevention.jpg": "/covid_kanvas/static/media/prevention.52402838.jpg",
     "static/media/symptoms.jpg": "/covid_kanvas/static/media/symptoms.7be5f5d8.jpg",
@@ -23,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.50379750.js",
     "static/css/2.cc90cae1.chunk.css",
-    "static/js/2.b6bbc931.chunk.js",
-    "static/css/main.41423e95.chunk.css",
-    "static/js/main.85c0bd1b.chunk.js"
+    "static/js/2.244ee064.chunk.js",
+    "static/css/main.4cc3fdf2.chunk.css",
+    "static/js/main.f70612dc.chunk.js"
   ]
 }
