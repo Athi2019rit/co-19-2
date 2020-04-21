@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/covid_kanvas/static/css/main.c94382ac.chunk.css",
+    "main.css": "/covid_kanvas/static/css/main.a1ade1f1.chunk.css",
     "main.js": "/covid_kanvas/static/js/main.bf0b1bcf.chunk.js",
     "main.js.map": "/covid_kanvas/static/js/main.bf0b1bcf.chunk.js.map",
     "runtime-main.js": "/covid_kanvas/static/js/runtime-main.50379750.js",
@@ -9,10 +9,10 @@
     "static/js/2.17eb8424.chunk.js": "/covid_kanvas/static/js/2.17eb8424.chunk.js",
     "static/js/2.17eb8424.chunk.js.map": "/covid_kanvas/static/js/2.17eb8424.chunk.js.map",
     "index.html": "/covid_kanvas/index.html",
-    "precache-manifest.229ba1761d60f6d647b797d643a4bf34.js": "/covid_kanvas/precache-manifest.229ba1761d60f6d647b797d643a4bf34.js",
+    "precache-manifest.b9d40cb1d1eadd5605b225180360a5da.js": "/covid_kanvas/precache-manifest.b9d40cb1d1eadd5605b225180360a5da.js",
     "service-worker.js": "/covid_kanvas/service-worker.js",
     "static/css/2.cc90cae1.chunk.css.map": "/covid_kanvas/static/css/2.cc90cae1.chunk.css.map",
-    "static/css/main.c94382ac.chunk.css.map": "/covid_kanvas/static/css/main.c94382ac.chunk.css.map",
+    "static/css/main.a1ade1f1.chunk.css.map": "/covid_kanvas/static/css/main.a1ade1f1.chunk.css.map",
     "static/js/2.17eb8424.chunk.js.LICENSE.txt": "/covid_kanvas/static/js/2.17eb8424.chunk.js.LICENSE.txt",
     "static/media/coronavirus.ico": "/covid_kanvas/static/media/coronavirus.cb8c0abc.ico",
     "static/media/font-awesome.min.css": "/covid_kanvas/static/media/fontawesome-webfont.fee66e71.woff",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.50379750.js",
     "static/css/2.cc90cae1.chunk.css",
     "static/js/2.17eb8424.chunk.js",
-    "static/css/main.c94382ac.chunk.css",
+    "static/css/main.a1ade1f1.chunk.css",
     "static/js/main.bf0b1bcf.chunk.js"
   ]
 }
